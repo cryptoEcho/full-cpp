@@ -3,7 +3,7 @@
 int add(int x, int y)
 {
     // Summation of two integer numbers
-    std::cout << "Running calculator...\n";
+    // std::cout << "Running calculator...\n";
     return (x+y);
 }
 
